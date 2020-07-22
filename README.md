@@ -10,12 +10,12 @@ Install npm packages using 'npm install' command.
 
 Content discussed :
 
-1)Form Design <br>
-2)Post Form Data into Node.js <br>
-3)Implemented Form Validation with mongoose model <br>
-4)Insert, Update and Delete with Node and MongoDB <br>
-5)Use of Handlebars <br>
-6)Use of Mongoose <br>
+1) Form Design <br>
+2) Post Form Data into Node.js <br>
+3) Implemented Form Validation with mongoose model <br>
+4) Insert, Update and Delete with Node and MongoDB <br>
+5) Use of Handlebars <br>
+6) Use of Mongoose <br>
 
 
 ![Test Image 2](IMG2.png)
