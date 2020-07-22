@@ -1,4 +1,4 @@
-# CRUD-Databse-
+# CRUD-Database
 CRUD Database using Node.js express and MongoDB
 
 ![Test Image 1](IMG1.png)
