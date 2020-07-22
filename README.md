@@ -1,5 +1,5 @@
 # CRUD-Database
-CRUD Database using Node.js express and MongoDB
+CRUD Database implemented using Node.js express and MongoDB
 
 ![Test Image 1](IMG1.png)
 
@@ -15,6 +15,7 @@ Content discussed :
 3)Implemented Form Validation with mongoose model <br>
 4)Insert, Update and Delete with Node and MongoDB <br>
 5)Use of Handlebars <br>
+6)Use of Mongoose <br>
 
 
 ![Test Image 2](IMG2.png)
