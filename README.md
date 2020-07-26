@@ -1,5 +1,5 @@
 # CRUD-Database
-CRUD Database implemented using Node.js express and MongoDB
+CRUD Database implemented using Express.js, Mongoose, Bodyparser and Express Handlebars
 
 ![Test Image 1](IMG1.png)
 
